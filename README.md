@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balaji-2k1
 - 👀 I’m interested in TTT Technology Trekking Thoughtful Talks 
 - 🌱 I’m currently learning Deep Learning Neural Networks, Image Processing
-- 💞️ I’m looking to collaborate on Machine Learning,Social Networking
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me balajih.2k1@gmail.com
 
 <!---
