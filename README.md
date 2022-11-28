@@ -2,7 +2,7 @@
 - 👀 I’m interested in TTT Technology Trekking Thoughtful Talks 
 - 🌱 I’m currently learning Deep Learning Neural Networks, Image Processing
 - 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me balajih.2k1@gmail.com
+- 📫 How to reach me balajihofficial@gmail.com
 
 <!---
 balaji-2k1/balaji-2k1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
